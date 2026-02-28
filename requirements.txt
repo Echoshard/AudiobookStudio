@@ -1,0 +1,9 @@
+numpy
+PyMuPDF
+requests
+beautifulsoup4
+EbookLib
+soundfile
+scipy
+pocket-tts
+PySide6
