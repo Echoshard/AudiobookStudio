@@ -4,7 +4,7 @@ Turn any text into a narrated audiobook — right from your desktop, no GPU requ
 
 Load a PDF, EPUB, plain text file, or paste content directly. Pick a voice (or clone your own from a short audio clip), tweak the speed and tone, and generate a full MP3 audiobook. The app intelligently splits your text at sentence boundaries, generates each section, and merges everything into one file.
 
-Powered by [PocketTTS](https://github.com/kyutai-labs/pocket-tts) by Kyutai — a lightweight text-to-speech model that runs entirely on CPU. This is the current choice. 
+Powered by [PocketTTS](https://github.com/kyutai-labs/pocket-tts) by Kyutai — a lightweight text-to-speech model that runs entirely on CPU. This is the current choice as new open source models come out it will be updated.
 
 
 ## ✨ Features
@@ -83,4 +83,5 @@ Voice cloning technology is powerful but carries ethical risks.
 *   Do not clone voices without consent.
 *   Do not generate content intended to deceive, defraud, or harass.
 *   Always label AI-generated content appropriately.
+
 
