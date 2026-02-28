@@ -1,4 +1,4 @@
-# 🎙️ PocketTTS Generator
+# 🎙️ PocketTTS-Studio
 
 A desktop GUI for [PocketTTS](https://github.com/kyutai-labs/pocket-tts) — CPU-optimized text-to-speech with voice cloning.
 
@@ -27,3 +27,4 @@ python PocketTTSUI.py
 ## 📄 License
 
 Uses [PocketTTS](https://github.com/kyutai-labs/pocket-tts) by Kyutai Labs — see their repo for model licensing.
+
