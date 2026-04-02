@@ -36,7 +36,6 @@ Double-click **`run_pocket_embedded.bat`** — it downloads everything automatic
 ```bash
 python -m venv venv
 venv\Scripts\activate
-pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 python PocketTTSUI.py
 ```
