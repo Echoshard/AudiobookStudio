@@ -22,10 +22,7 @@ Powered by [PocketTTS](https://github.com/kyutai-labs/pocket-tts) by Kyutai — 
 
 ## 🚀 Quick Start
 
-Double-click **`run_pocket_embedded.bat`** — it downloads everything automatically then `installTinkerEmbbeded.bat`
-
-
-> First run takes a few minutes to set up. After that, launches are instant.
+Double-click **`run_pocket_embedded.bat`** — it downloads everything automatically then `installTinkerEmbbeded.bat` then `run_pocket_embedded.bat` again.
 
 ## 🛠️ Manual Setup
 
