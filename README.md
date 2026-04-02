@@ -22,12 +22,8 @@ Powered by [PocketTTS](https://github.com/kyutai-labs/pocket-tts) by Kyutai — 
 
 ## 🚀 Quick Start
 
-Double-click **`run_pocket_embedded.bat`** — it downloads everything automatically:
+Double-click **`run_pocket_embedded.bat`** — it downloads everything automatically then `installTinkerEmbbeded.bat`
 
-1. Embedded Python 3.12
-2. FFmpeg for audio processing
-3. CPU-only PyTorch + all dependencies
-4. Launches the app
 
 > First run takes a few minutes to set up. After that, launches are instant.
 
